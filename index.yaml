@@ -3,7 +3,7 @@ entries:
   wordpress:
   - appVersion: 4.9.8
     created: 2019-05-29T20:43:59.124083+01:00
-    description: My Name is Neo!
+    description: "My Name is Neo!"
     digest: 8f6083526b0ec83ed7cd9f4061b7a04381dc9270dfbb2fd87cf716ad08ae219c
     engine: gotpl
     home: http://www.wordpress.com/
