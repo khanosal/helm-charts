@@ -2,8 +2,56 @@ apiVersion: v1
 entries:
   wordpress:
   - appVersion: 4.9.8
-    created: 2019-05-29T20:43:59.124083+01:00
-    description: "My Name is Neo!"
+    created: 2019-05-30T11:17:47.93305+01:00
+    description: 3rd Web publishing platform for building blogs and websites.
+    digest: 1c981828e8c3e6742cd9374786d1851eab4f0356a917dd05868148931d2c751a
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-3.0.5.tgz
+    version: 3.0.5
+  - appVersion: 4.9.8
+    created: 2019-05-30T11:17:47.930157+01:00
+    description: 2nd Web publishing platform for building blogs and websites.
+    digest: f3c5cc8fe4045fc48eb027af9fba911a720f65dcfa94ae75e4cc1002f7f9a5ca
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-3.0.4.tgz
+    version: 3.0.4
+  - appVersion: 4.9.8
+    created: 2019-05-30T11:17:47.927642+01:00
+    description: My Name is Neo!
     digest: 8f6083526b0ec83ed7cd9f4061b7a04381dc9270dfbb2fd87cf716ad08ae219c
     engine: gotpl
     home: http://www.wordpress.com/
@@ -25,4 +73,4 @@ entries:
     urls:
     - wordpress-3.0.3.tgz
     version: 3.0.3
-generated: 2019-05-29T20:43:59.119172+01:00
+generated: 2019-05-30T11:17:47.921807+01:00
